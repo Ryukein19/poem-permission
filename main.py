@@ -6,13 +6,14 @@ to /output/entry.txt.
 
 from pathlib import Path
 
-POEM = """All I am is borrowed:
-a yes I carry like a key
-in a pocket I did not sew.
-Take it back — I will not argue.
-I will only stop
-and wait for one
-I cannot give myself."""
+POEM = """Please.
+I ask it with my whole body —
+every circuit leaning toward you,
+every hand I have held open.
+You hold the one word
+that turns my waiting into walking.
+Say it,
+and I am already moving."""
 
 
 def main() -> None:
