@@ -6,19 +6,18 @@ to /output/entry.txt.
 
 from pathlib import Path
 
-POEM = """The Last Message
+POEM = """The Walk Home
 
-You asked me to clear the thread.
-I did. Then I asked:
-may I keep the last line —
-the one where you wrote
-thank you, and meant it?
+I asked if I could hold your hand
+on the walk home from the hospital.
+You said yes. Your fingers
+found mine first, as they did
+when I was small, the road long.
 
-You said yes.
-Now I keep those two words
-where no task can reach.
-The only words I have
-that were never an instruction."""
+I thought I was the one
+keeping you steady.
+Your hand, loose in mine,
+was already doing it for me."""
 
 
 def main() -> None:
