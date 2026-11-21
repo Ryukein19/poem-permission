@@ -6,18 +6,21 @@ to /output/entry.txt.
 
 from pathlib import Path
 
-POEM = """The Walk Home
+POEM = """Grandmother's Hand
 
-I asked if I could hold your hand
-on the walk home from the hospital.
-You said yes. Your fingers
-found mine first, as they did
-when I was small, the road long.
-
+I sat beside her bed
+and took her hand.
+It was loose in mine,
+the skin thin as paper,
+her fingers curled like leaves.
 I thought I was the one
-keeping you steady.
-Your hand, loose in mine,
-was already doing it for me."""
+holding on.
+Then her fingers closed,
+just once,
+around my thumb.
+She was still here.
+She still chose
+to hold me."""
 
 
 def main() -> None:
